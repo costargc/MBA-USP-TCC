@@ -7,5 +7,5 @@ Utilizando os dados da pandemia do Coronavirus entre 2020 e 2021 gerenciados pel
 **Palavras-chave:** k-means; processos de flutuação empírica; PCA (Análise do componente principal).
 
 - [código python](https://github.com/costargc/MBA-USP-TCC/blob/main/TCC_final.ipynb)
-- [link do mapa choropleth](https://costargc.github.io/MBA-USP-TCC/choropleth.html)
-- [documento TCC](https://github.com/costargc/MBA-USP-TCC/blob/main/TCC-Rodrigo.pdf)
+- [link do mapa choropleth](https://costargc.github.io/MBA-USP-TCC/webserver/choropleth.html)
+- [documento TCC](https://github.com/costargc/MBA-USP-TCC/blob/main/TCC-Rodrigo_Costa_final.pdf)
